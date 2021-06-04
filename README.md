@@ -1,5 +1,5 @@
-# pixel_art_maker
-udacity project
+# Pixel_art_maker :partying_face:
+
 
 Steps to create!
 1. Fork The Repositories
